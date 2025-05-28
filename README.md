@@ -54,7 +54,7 @@ Quero utilizar o Github como meu lugar para guardar projetinhos e tudo que apren
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img 
     alt="Estatísticas do GitHub" 
     height="200" 
