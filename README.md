@@ -59,22 +59,8 @@ Quero utilizar o Github como meu lugar para guardar projetinhos e tudo que apren
     alt="Estatísticas do GitHub" 
     height="200" 
     width="400"
-    src="https://github-readme-stats.vercel.app/api?username=isadoragrisolia&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    style="padding-right: 10px;" 
-  />
-
-  <img 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoragrisolia&theme=tokyonight&custom_title=Linguagens Mais Usadas&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=isadoragrisolia&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&title_color=6c3483&text_color=2e2e2e&icon_color=6c3483&bg_color=a18cd1,fbc2eb" 
     style="padding-right: 10px;" 
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=isadoragrisolia&theme=tokyo-night&area=true&hide_border=true" 
-    alt="Gráfico de atividades recentes"
-  />
-</p>
