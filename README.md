@@ -1,8 +1,8 @@
 # 🌱 Isadora Barretto
 
-**`Bióloga e Analista de Dados`**
+**`Biologia, Sustentabilidade, ESG e Análise de Dados`**
 
-Me chamo Isadora Barretto, tenho 31 anos e sou natural de Piracicaba-SP. Sou bacharel em Ciências Biológicas pela Universidade Federal de São Carlos e atualmente, estou cursando pós graduação em Data Science e Analytics. Sou apaixonada por dados, tecnologia e conservação da natureza.  Sou fluente em inglês e quero aprender italiano em holandês até 2026.
+Me chamo Isadora Barretto, tenho 31 anos e sou natural de Piracicaba-SP. Sou bacharel em Ciências Biológicas pela Universidade Federal de São Carlos e atualmente, estou cursando pós graduação em Compliance & ESG. Sou apaixonada por dados, tecnologia e conservação da natureza. Sou fluente em inglês e quero aprender italiano em holandês até 2026.
 
 Quero utilizar o Github como meu lugar para guardar projetinhos e tudo que aprendo!
 
