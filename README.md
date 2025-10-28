@@ -1,9 +1,7 @@
 # 🌱 Isadora Barretto
 
-**`Biologia, Sustentabilidade, ESG e Análise de Dados`**
-
-Me chamo Isadora Barretto, tenho 31 anos e sou natural de Piracicaba-SP. Sou bacharel em Ciências Biológicas pela Universidade Federal de São Carlos. Sou apaixonada por dados, tecnologia e conservação da natureza. 
-Sou fluente em inglês (C2) e desejo aprender italiano em holandês até 2026.
+**`Biologia, Sustentabilidade, Análise de Dados`**
+Bióloga em transição para a área de dados, com mais de 3 anos de experiência em análise de indicadores ESG, gestão de projetos e relatórios de impacto socioambiental. Atuo com modelagem e visualização de dados em Power BI, Looker Studio, Excel, SQL e Python. Experiência prática em curadoria de dados ambientais, métricas de sustentabilidade e comunicação técnica orientada por evidências.  Sou formada em Biologia pela Universidade Federal de São Carlos e atualmente curso Pós-Graduação em Ciência de Dados e Big Data (PUC Minas). Possuo inglês nível C2 (EF SET) e em busca do A2 em Italiano até Janeiro de 2026!
 
 Quero utilizar o Github como meu lugar para guardar projetinhos e tudo que aprendo!
 
